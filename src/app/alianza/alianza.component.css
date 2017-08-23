@@ -1,0 +1,19 @@
+.alianzas{
+
+}
+.alianzas ul{
+    list-style-type: none;
+
+}
+.alianzas ul li{
+    text-decoration: none;
+    float: left;
+    width: 24%;
+    margin-right: 1%;
+}
+h2{
+    font-size: 2.5em;
+    font-family: 'Microsoft Sans Serif', Tahoma, Arial, Verdana, Sans-Serif;
+    text-align: center;
+    text-transform: uppercase;
+}

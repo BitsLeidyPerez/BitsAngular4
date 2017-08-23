@@ -1,0 +1,13 @@
+
+<div>
+    <div class="alianzas">
+        <h2>Nuestras Alianzas</h2>
+        <ul>
+            <li *ngFor="let alianza of alianzas" class="animated fadeInDown">
+            <a [href]="alianza.link">
+                <img [src]="alianza.img" />
+            </a>
+            </li>
+        </ul>
+    </div>
+</div>
